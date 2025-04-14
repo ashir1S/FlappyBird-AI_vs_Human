@@ -1,0 +1,2 @@
+model_checkpoint_path: "bird-dqn-final"
+all_model_checkpoint_paths: "bird-dqn-final"
