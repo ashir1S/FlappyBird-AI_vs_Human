@@ -112,3 +112,12 @@ saved_networks/bird-dqn-2920000
 
 - **Human-level Control through Deep Reinforcement Learning**, Mnih et al., *Nature*, 2015.
 - **Playing Atari with Deep Reinforcement Learning**, Mnih et al., *NIPS*, 2013.
+
+## Credits
+
+🧠 This project was originally inspired by public implementations of Flappy Bird using Deep Q-Learning.
+
+🤖 Enhancements such as the **AI vs Human mode**, code refactoring, and interface modifications were made with the assistance of **ChatGPT** and **Gemini**, as part of my learning journey in deep reinforcement learning.
+
+📚 I studied and adapted parts of the implementation from:
+- [Original DQN Flappy Bird GitHub Repository](https://github.com/Siddharth-2382/Flappy-Bird-AI).
